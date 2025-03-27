@@ -41,9 +41,9 @@ The model achieves high accuracy in detecting forged images, demonstrating the e
 
 ## 🤝 Contributing
 Feel free to fork the repo, create feature branches, and submit pull requests!
-
 ## 📜 License
-This project is open-source under the **MIT License**.
+This project is open-source and available under the **MIT License**.  
+See the [LICENSE](LICENSE) file for more details.
 
 ---
 🔥 **Author**: [Nagendra Pai](https://github.com/Nagendra0228)  
